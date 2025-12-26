@@ -9,6 +9,19 @@ During the evaluation process, a critical flaw in the data normalization strateg
 - **As-is Strategy:** The code calculates the `max_abs` value of the **target set** only, and then applies this same scale matrix to both the **input set** and the **target set**.
 - **The Impact:** This mismatched scaling leads to severe underfitting. Since input and target distributions often differ in magnitude, forcing the input to follow the target's scale distorts the feature representation. This issue is most prominent in **HNN** and **LNN**.
 
+## Findings
+Discovered data normalization flaws that led to poor training results, preventing a fair comparison between the Neural Symplectic Form and the genuine performance of other models.
+
+## Visual Evidence of Underfitting
+The following figures demonstrate how the "as-is" models failed to capture the true orbits due to data issues.
+
+### Mass-Spring System
+![Mass-Spring Underfit Analysis](./mass-spring/comparison/figures/mass_spring_asis_trained_models_orbits_compared_by_danieljh.png)
+
+### Double Pendulum System
+![Double Pendulum Underfit Analysis](./double-pendulum/comparison/figures/dbl_pend_asis_trained_models_orbits_compared_by_danieljh.png)
+
+
 ## Proposed Solution & Verification
 
 I found that separating the normalization constants for inputs and targets resolves the issue.
