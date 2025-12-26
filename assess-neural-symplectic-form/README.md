@@ -18,7 +18,7 @@ By applying this decoupled scaling, the "strange" artifacts in evaluation have d
 ## Technical Background
 For a detailed analysis of why the original code failed and how the issue was identified, please refer to the documentation in the sibling directory:
 
-👉 **[Analysis of Original Issue](../underfit-issue-in-asis-neural_symplectic_form-git-codes/README_data_normalization_issue_found.md)**
+👉 **[Analysis of Original Issue](../underfit-issue-in-asis-neural_symplectic_form-git-codes/README.md)**
 
 ---
 *This version ensures that the evaluation results are a true representation of the model's architectural performance.*
