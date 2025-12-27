@@ -10,9 +10,9 @@ During the evaluation process, a critical flaw in the data normalization strateg
 - **The Impact:** This mismatched scaling leads to severe underfitting. Since input and target distributions often differ in magnitude, forcing the input to follow the target's scale distorts the feature representation. This issue is most prominent in **HNN** and **LNN**.
 
 ## Findings
-Discovered data normalization flaws that led to poor training results, preventing a fair comparison between the Neural Symplectic Form and the genuine performance of other models.
+Discovered data normalization flaws that led to poor training results, hindering a fair comparison between the Neural Symplectic Form and the genuine performance of other models.
 
-## Visual Evidence of Underfitting
+## Visual data showing the underfit issue in as-is codes
 The following figures demonstrate how the "as-is" models failed to capture the true orbits due to data issues.
 
 ### Mass-Spring System

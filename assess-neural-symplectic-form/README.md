@@ -15,7 +15,7 @@ By applying this decoupled scaling, the "strange" artifacts in evaluation have d
 - **Improved Convergence:** Models no longer suffer from the severe artificial underfitting that previously hindered the training process.
 - **Evaluation Validity:** While model-specific limitations may still exist, the evaluation trajectories now provide a reliable basis for assessing the true performance of each architecture.
 
-## Visual Evidence of Resolved Issues
+## Visualization of fixed underfit issue
 
 The following figures show that the underfitting and normalization issues have been successfully resolved, demonstrating the true performance across various models.
 
