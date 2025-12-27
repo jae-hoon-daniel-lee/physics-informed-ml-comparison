@@ -26,10 +26,9 @@ The following figures show that the underfitting and normalization issues have b
 ![Double Pendulum Orbit Comparison](./double-pendulum/comparison/figures/dp_orbits_comparison_across_models.png)
 
 
-## Technical Background
-For a detailed analysis of why the original code failed and how the issue was identified, please refer to the documentation in the sibling directory:
-
-👉 **[Analysis of Original Issue](../underfit-issue-in-asis-neural_symplectic_form-git-codes/README.md)**
+## Why this happened
+To see why the original code didn't work and how the issues were found, please refer to the README in the sibling directory:
+- [underfit-issue-in-asis-neural_symplectic_form-git-codes](../underfit-issue-in-asis-neural_symplectic_form-git-codes/README.md)
 
 ---
 *This version ensures that the evaluation results are a true representation of the model's architectural performance.*
