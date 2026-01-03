@@ -14,10 +14,10 @@ sys.path.append(parent_dir)
 
 """
 Adapted to the current directory structures (by Jae Hoon (Daniel) Lee).
-Explictly added ../hamiltonian-nn/ path.
+Explictly added ../hamiltonian_nn/ path.
 """
 sys.path.append(parent_dir)
-HNN_PATH = os.path.join(parent_dir, 'hamiltonian-nn')
+HNN_PATH = os.path.join(parent_dir, 'hamiltonian_nn')
 if os.path.exists(HNN_PATH):
     sys.path.append(HNN_PATH)
 else:
