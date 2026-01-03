@@ -1,0 +1,55 @@
+Successfully loaded data from /media/danieljh/shared/Code/piml-comp-git/assess-hamiltonian-nn-family/experiment-2body/2body-orbits-dataset.pkl
+step 0, train_loss 5.6959e-02, test_loss 5.0372e-02, grad norm 9.6848e-03, grad std 4.7793e-04
+step 200, train_loss 4.7525e-04, test_loss 3.9000e-04, grad norm 6.9597e-05, grad std 4.0514e-05
+step 400, train_loss 2.3650e-04, test_loss 1.6555e-04, grad norm 5.8871e-05, grad std 3.7262e-05
+step 600, train_loss 2.4006e-04, test_loss 9.9555e-05, grad norm 1.7016e-05, grad std 2.0032e-05
+step 800, train_loss 6.8406e-05, test_loss 6.3686e-05, grad norm 3.1591e-05, grad std 2.7296e-05
+step 1000, train_loss 5.4871e-05, test_loss 4.5237e-05, grad norm 2.8903e-05, grad std 2.6109e-05
+step 1200, train_loss 4.4448e-05, test_loss 3.4072e-05, grad norm 3.5755e-05, grad std 2.9040e-05
+step 1400, train_loss 2.4692e-05, test_loss 4.0050e-05, grad norm 6.5013e-06, grad std 1.2383e-05
+step 1600, train_loss 3.0835e-05, test_loss 1.9492e-05, grad norm 2.5659e-05, grad std 2.4600e-05
+step 1800, train_loss 2.4295e-05, test_loss 3.1739e-05, grad norm 3.8357e-05, grad std 3.0078e-05
+step 2000, train_loss 3.8154e-05, test_loss 1.6875e-05, grad norm 4.5089e-05, grad std 3.2611e-05
+step 2200, train_loss 1.8697e-05, test_loss 1.4794e-05, grad norm 2.5605e-05, grad std 2.4575e-05
+step 2400, train_loss 1.3212e-05, test_loss 1.5013e-05, grad norm 5.9744e-06, grad std 1.1871e-05
+step 2600, train_loss 1.1528e-05, test_loss 1.2517e-05, grad norm 7.7465e-06, grad std 1.3517e-05
+step 2800, train_loss 1.2472e-05, test_loss 1.3385e-05, grad norm 7.2629e-06, grad std 1.3088e-05
+step 3000, train_loss 1.1129e-05, test_loss 8.6382e-06, grad norm 1.3378e-05, grad std 1.7763e-05
+step 3200, train_loss 1.1014e-05, test_loss 8.8720e-06, grad norm 1.3349e-05, grad std 1.7744e-05
+step 3400, train_loss 1.5691e-05, test_loss 1.1080e-05, grad norm 2.1246e-05, grad std 2.2385e-05
+step 3600, train_loss 1.5677e-05, test_loss 1.2367e-05, grad norm 2.6413e-05, grad std 2.4959e-05
+step 3800, train_loss 2.0890e-05, test_loss 6.6138e-06, grad norm 3.7952e-06, grad std 9.4610e-06
+step 4000, train_loss 5.1535e-06, test_loss 8.0711e-06, grad norm 1.9558e-06, grad std 6.7917e-06
+step 4200, train_loss 9.2974e-06, test_loss 1.3598e-05, grad norm 1.2912e-05, grad std 1.7451e-05
+step 4400, train_loss 1.0795e-05, test_loss 1.2746e-05, grad norm 1.1291e-05, grad std 1.6319e-05
+step 4600, train_loss 5.4968e-06, test_loss 6.1084e-06, grad norm 2.8439e-06, grad std 8.1899e-06
+step 4800, train_loss 8.2553e-06, test_loss 8.6589e-06, grad norm 1.2052e-05, grad std 1.6860e-05
+step 5000, train_loss 8.9369e-06, test_loss 1.1720e-05, grad norm 1.2110e-05, grad std 1.6899e-05
+step 5200, train_loss 8.4473e-06, test_loss 7.4845e-06, grad norm 1.2031e-05, grad std 1.6845e-05
+step 5400, train_loss 8.9831e-06, test_loss 6.5934e-06, grad norm 5.8728e-06, grad std 1.1769e-05
+step 5600, train_loss 6.3361e-06, test_loss 4.2319e-06, grad norm 1.0640e-05, grad std 1.5841e-05
+step 5800, train_loss 1.4981e-05, test_loss 1.9460e-05, grad norm 3.7108e-05, grad std 2.9583e-05
+step 6000, train_loss 1.2228e-05, test_loss 1.4206e-05, grad norm 3.3176e-05, grad std 2.7973e-05
+step 6200, train_loss 1.0145e-05, test_loss 8.2000e-06, grad norm 1.8812e-05, grad std 2.1063e-05
+step 6400, train_loss 3.5645e-06, test_loss 3.8589e-06, grad norm 1.9056e-06, grad std 6.7036e-06
+step 6600, train_loss 1.0981e-05, test_loss 8.8864e-06, grad norm 1.8988e-05, grad std 2.1162e-05
+step 6800, train_loss 3.6511e-06, test_loss 5.0916e-06, grad norm 2.0684e-06, grad std 6.9845e-06
+step 7000, train_loss 9.4206e-06, test_loss 1.5822e-05, grad norm 9.2242e-06, grad std 1.4750e-05
+step 7200, train_loss 4.3547e-06, test_loss 3.7786e-06, grad norm 2.4856e-06, grad std 7.6565e-06
+step 7400, train_loss 4.2193e-06, test_loss 2.9740e-06, grad norm 5.3986e-06, grad std 1.1284e-05
+step 7600, train_loss 1.7203e-05, test_loss 9.6178e-06, grad norm 3.6178e-05, grad std 2.9210e-05
+step 7800, train_loss 1.0022e-05, test_loss 7.8947e-06, grad norm 8.7361e-06, grad std 1.4354e-05
+step 8000, train_loss 2.6725e-06, test_loss 3.1126e-06, grad norm 2.1073e-06, grad std 7.0499e-06
+step 8200, train_loss 4.8198e-06, test_loss 4.4242e-06, grad norm 7.8163e-06, grad std 1.3577e-05
+step 8400, train_loss 2.4985e-06, test_loss 3.3118e-06, grad norm 2.2196e-06, grad std 7.2353e-06
+step 8600, train_loss 3.9900e-06, test_loss 2.7053e-06, grad norm 4.9816e-06, grad std 1.0839e-05
+step 8800, train_loss 3.4510e-06, test_loss 4.8911e-06, grad norm 4.4300e-06, grad std 1.0222e-05
+step 9000, train_loss 1.3326e-05, test_loss 1.3782e-05, grad norm 1.7219e-05, grad std 2.0153e-05
+step 9200, train_loss 3.0359e-06, test_loss 3.4364e-06, grad norm 3.9715e-06, grad std 9.6783e-06
+step 9400, train_loss 3.4338e-06, test_loss 4.6616e-06, grad norm 5.5750e-06, grad std 1.1467e-05
+step 9600, train_loss 3.3413e-06, test_loss 3.8075e-06, grad norm 3.6478e-06, grad std 9.2755e-06
+step 9800, train_loss 9.2168e-06, test_loss 7.3828e-06, grad norm 1.8310e-05, grad std 2.0781e-05
+step 10000, train_loss 3.7623e-06, test_loss 4.2786e-06, grad norm 4.7080e-06, grad std 1.0538e-05
+Final train loss 4.5839e-06 +/- 3.4426e-08
+Final test loss 4.3185e-06 +/- 1.7014e-08
+Model's weight has successfully been saved: /media/danieljh/shared/Code/piml-comp-git/assess-hamiltonian-nn-family/experiment-2body/weights/danieljh_hnn_2body_cpu_trained_directly_on_terminal.pth
