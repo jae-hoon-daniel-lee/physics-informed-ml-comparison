@@ -22,7 +22,7 @@ To ensure a fair comparison, both models were trained under the exact same GPU c
 ## 📊 Comparison results (2-body Orbit)
 The result below highlights the superior trajectory stability of DGNet compared to HNN:
 
-![HNN vs DGNet 2-Body Comparison](./comparison/hnn_vs_dgnet_2body-orbit_2.png)
+![HNN vs DGNet 2-Body Comparison](./example-2body/comparison/hnn_vs_dgnet_2body-orbit_2.png)
 
 *The plot shows one of the 15 test cases (Case #2), where DGNet maintains a more stable orbit thanks to its discrete gradient-based energy conservation than HNN. Each plot includes scatter points for the starting positionㄴ and quiver arrows for the initial motion directions.*
 
